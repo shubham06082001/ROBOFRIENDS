@@ -10,3 +10,11 @@ h1 {
   font-weight: 200;
   color: #0ccac4;
 }
+button{
+  background: yellow;
+  padding: 3px;
+  border-radius: 6px;
+  font-size: 20px !important;
+  border: 2px solid white;
+  box-shadow: 0 2px 0 grey;
+}
